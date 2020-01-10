@@ -1,0 +1,7 @@
+bash 0.sh
+python 1.py
+bash 2.sh
+bash 3.sh
+python3 4.py
+python3 5.py
+echo done
